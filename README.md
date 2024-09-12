@@ -4,7 +4,7 @@
 - 🌱 **Education:** Currently in my second year of a Master's in Applied Data Science at USC. I hold a B.A. in Math and Philosophy from Mount Holyoke College.
 - 😄 **Pronouns:** She/her
 
-**Looking For:** Fall 2024 internships in data science.
+**Looking For:**  2025 fulltime jobs in data science.
 
 
 <!---
