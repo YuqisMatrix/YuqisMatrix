@@ -1,13 +1,78 @@
-👋 **Hi, I’m Yuqi**
+# 👋 Hi, I’m Yuqi Zhang
 
-- 👀 **Interests:** data management, machine learning, and algorithms.
-- 🌱 **Education:** Currently in my second year of a Master's in Applied Data Science at USC. I hold a B.A. in Math and Philosophy from Mount Holyoke College.
-- 😄 **Pronouns:** She/her
+**🎓 Education**  
+- M.S. in Applied Data Science, University of Southern California (USC), 2023–2024  
+- B.A. in Mathematics & Philosophy (Magna Cum Laude), Mount Holyoke College  
 
-**Looking For:**  2025 fulltime jobs in data science.
+**🔍 Current Focus**  
+- Seeking full-time 2025 opportunities in Data Science, Machine Learning, or AI Engineering  
+- Developing an LSTM-based stock prediction app (Dockerized and Web Deployed)  
+- Exploring LLMs and NLP for scalable chatbot and text classification solutions  
 
+---
+
+## 🚀 About Me
+
+I’m a data scientist passionate about applying machine learning, data analysis, and algorithmic thinking to solve real-world problems. With experience across AI product development, real estate analytics, campus safety, and nonprofit consulting, I enjoy working end-to-end—from data ingestion and model development to deployment and stakeholder impact.
+
+Whether it's reducing latency in LLM-powered tools, modeling home prices, or visualizing crime data for public safety, I aim to build scalable, human-centered, and impactful solutions.
+
+---
+
+## 🌟 Highlights
+
+- Refactored and deployed an OpenAI + DeepSeek chatbot, reducing latency by 70% and increasing user engagement by 50%  
+- Built a real-time home recommendation engine using California housing data, improving prediction accuracy by 20%  
+- Developed an AI dashboard for campus safety route recommendations, supporting a $49M resource allocation decision  
+- Achieved 91% accuracy on a fake review detection system using interpretable NLP models  
+- Helped underserved clients reduce housing costs by 10% through statistical modeling and analysis  
+
+---
+
+## 🧠 Skills Snapshot
+
+**🧬 Data Science & Machine Learning**  
+Predictive Modeling, Time Series Forecasting, NLP, A/B Testing, Hypothesis Testing, Anomaly Detection, Clustering, LLMs (OpenAI, Google, Anthropic)
+
+**🛠 Programming & Tools**  
+Python (pandas, scikit-learn, PyTorch, PySpark, TensorFlow), SQL, Docker, Kubernetes, Git, CI/CD, Power BI, Tableau, Hadoop, Scala
+
+**☁️ Cloud & MLOps**  
+AWS (EC2, S3, SageMaker), GCP, ETL Pipelines, Model Deployment, Data Ingestion
+
+**📊 Data Analysis**  
+Data Cleaning, Exploratory Data Analysis (EDA), Excel (PivotTables, VLOOKUP), Relational Databases, Business Intelligence, Descriptive Statistics 
+
+---
+
+## 📁 Projects
+
+**LSTM Stock Predictor**  
+Forecasting Microsoft stock prices using LSTM neural networks, with Dockerized deployment and real-time web interface.
+
+**Fake Review Detector**  
+Interpretable NLP pipeline using logistic regression and engineered linguistic features to classify fake reviews with 91% accuracy.
+
+**Housing Safety Recommender**  
+Integrated crime and housing datasets in Los Angeles to recommend affordable and safer rental areas through exploratory data analysis and regression models.
+
+---
+
+## 🌱 Outside Tech
+
+- Formula 1 enthusiast — building a Streamlit dashboard analyzing Max Verstappen’s 2023 race performance  
+- Enjoy taking care of my plants, long walks, and quiet reading time  
+
+---
+
+## 📬 Let’s Connect
+
+- Email: [yuqizhang56@outlook.com](mailto:yuqizhang56@outlook.com)  
+- LinkedIn: [linkedin.com/in/yuqi-zhang-matrix](https://www.linkedin.com/in/yuqi-zhang-matrix/)  
 
 <!---
 YuqisMatrix/YuqisMatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
