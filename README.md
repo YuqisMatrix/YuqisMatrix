@@ -2,10 +2,10 @@
 
 **🎓 Education**  
 - M.S. in Applied Data Science, University of Southern California (USC), 2023–2024  
-- B.A. in Mathematics & Philosophy (Magna Cum Laude), Mount Holyoke College  
+- B.A. in Mathematics & Philosophy (Magna Cum Laude), Mount Holyoke College, 2018-2022
 
 **🔍 Current Focus**  
-- Seeking full-time 2025 opportunities in Data Science, Machine Learning, or AI Engineering  
+- Seeking full-time 2025 opportunities in Data Science, Machine Learning
 - Developing an LSTM-based stock prediction app (Dockerized and Web Deployed)  
 - Exploring LLMs and NLP for scalable chatbot and text classification solutions  
 
