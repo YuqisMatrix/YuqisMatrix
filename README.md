@@ -4,10 +4,7 @@
 - M.S. in Applied Data Science, University of Southern California (USC), 2023–2024  
 - B.A. in Mathematics & Philosophy (Magna Cum Laude), Mount Holyoke College, 2018-2022
 
-**🔍 Current Focus**  
-- Seeking full-time 2025 opportunities in Data Science, Machine Learning
-- Developing an LSTM-based stock prediction app (Dockerized and Web Deployed)  
-- Exploring LLMs and NLP for scalable chatbot and text classification solutions  
+
 
 ---
 
@@ -45,25 +42,6 @@ Data Cleaning, Exploratory Data Analysis (EDA), Excel (PivotTables, VLOOKUP), Re
 
 ---
 
-## 📁 Projects
-
-**LSTM Stock Predictor**  
-Forecasting Microsoft stock prices using LSTM neural networks, with Dockerized deployment and real-time web interface.
-
-**Fake Review Detector**  
-Interpretable NLP pipeline using logistic regression and engineered linguistic features to classify fake reviews with 91% accuracy.
-
-**Housing Safety Recommender**  
-Integrated crime and housing datasets in Los Angeles to recommend affordable and safer rental areas through exploratory data analysis and regression models.
-
----
-
-## 🌱 Outside Tech
-
-- Formula 1 enthusiast — building a Streamlit dashboard analyzing Max Verstappen’s 2023 race performance  
-- Enjoy taking care of my plants, long walks, and quiet reading time  
-
----
 
 ## 📬 Let’s Connect
 
